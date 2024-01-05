@@ -1,17 +1,37 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Absalamov
-========================================================================================================================================
+<h2 align="left">Hi 👋! My name is Nikita Absalamov, from Perm</h2>
 
-Junior QA
----------
+###
 
-Я начинающий тестировщик. Научился составлять тест-кейсы и чек-листы; тестировать документацию, базово изучил Html, Сss. Изучил функциональное и нефункциональное тестирование, в т.ч. тестирование юзабилити, тестирование веб-сервисов, тестирование веб -продуктов, тестирование мобильных приложений. Программы, в которых я работал: - инструменты баг-трекинга: Jira, TestRail; - фермы и эмуляторы для мобильных приложений, такие как Android Studio, Samsung Remote TestLab (опыт работы на эмуляторах 2 года); - простые запросы Sql; - автоматизация тестирования в Katalon Recorder; - тестирование веб-сервисов в SoapUI (тестирование Rest Api и Soap); - Chrome DevTools. Личностные качества: Ответственный; умею самостоятельно изучать информацию; умею быстро и результативно работать в многозадачном режиме; успешная работа в команде и индивидуально.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-* 🌍  I'm based in Perm
-* ✉️  You can contact me at [absalamov.n.s@gmail.com](mailto:absalamov.n.s@gmail.com)
+###
 
-### Skills
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
