@@ -5,6 +5,7 @@ Junior QA
 ---------
 
 * 🌍  I'm based in Perm
+* ✉️  You can contact me at [absalamov.n.s@gmail.com](mailto:absalamov.n.s@gmail.com)
 
 ### Skills
 
