@@ -9,7 +9,7 @@
 - фермы и эмуляторы для мобильных приложений, 
 такие как Android Studio, Samsung Remote TestLab; 
 - простые запросы Sql; 
-- работал с Git и Github 
+- работал с Git и Github; 
 - автоматизация тестирования в Katalon Recorder; 
 - тестирование веб-сервисов в SoapUI и Postman (тестирование Rest Api и Soap); 
 - Chrome DevTools.
